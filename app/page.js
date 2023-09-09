@@ -6,6 +6,7 @@ export default function Home() {
           Get started by editing&nbsp;
         </p>
         <p>adding second line</p>
+        <p>adding third line</p>
       </div>
     </main>
   );
